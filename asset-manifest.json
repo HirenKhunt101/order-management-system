@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/order-management-system/static/css/main.4573363c.css",
+    "main.js": "/order-management-system/static/js/main.3e54acdb.js",
+    "static/js/787.36f4ce8e.chunk.js": "/order-management-system/static/js/787.36f4ce8e.chunk.js",
+    "index.html": "/order-management-system/index.html",
+    "main.4573363c.css.map": "/order-management-system/static/css/main.4573363c.css.map",
+    "main.3e54acdb.js.map": "/order-management-system/static/js/main.3e54acdb.js.map",
+    "787.36f4ce8e.chunk.js.map": "/order-management-system/static/js/787.36f4ce8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4573363c.css",
+    "static/js/main.3e54acdb.js"
+  ]
+}
